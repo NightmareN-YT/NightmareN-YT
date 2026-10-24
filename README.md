@@ -12,11 +12,11 @@
 
 ## Featured Projects
 
-- **Isekai Story of Chiyo** — RPG Maker MZ game focused on exploration and storytelling.
-- **Ricefield Production** — Independent game development studio.
-- **Game Jam Plus** — Game development project using RPG Maker MZ.
-- [**Niyon-2.0**](https://github.com/NightmareN-YT/Niyon-2.0) — Python Discord bot.
-- [**Portfolio-N**](https://github.com/NightmareN-YT/Portfolio-N) — Personal portfolio website.
+- **Isekai Story of Chiyo**: RPG Maker MZ game focused on exploration and storytelling.
+- **Ricefield Production**: Independent game development studio.
+- **Game Jam Plus**: Game development project using RPG Maker MZ.
+- [**Niyon-2.0**](https://github.com/NightmareN-YT/Niyon-2.0): Python Discord bot.
+- [**Portfolio-N**](https://github.com/NightmareN-YT/Portfolio-N): Personal portfolio website.
 
 ## Tools & Technologies
 
